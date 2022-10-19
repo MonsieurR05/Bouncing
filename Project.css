@@ -1,0 +1,61 @@
+html { 
+	background: url(ProjectImg/blackmax.jpg) no-repeat center center fixed; 
+	background-size: cover;
+  }
+ 
+.bouncingImages {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.bouncingImages2 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+ .bouncingImages3 {
+	position: absolute;
+	width: 193px;
+	height: 190px;
+	border-radius: 50%;
+
+}
+
+.bouncingImages4 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.bouncingImages5 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.bouncingImages6 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+} 
+
+ .bouncingImages7 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.bouncingImages8 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+} 
