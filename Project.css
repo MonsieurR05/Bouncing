@@ -1,6 +1,8 @@
 body { 
 	background: url(ProjectImg/blackmax.jpg) no-repeat center center fixed; 
 	background-size: cover;
+	overflow-x: hidden;
+	overflow-y: hidden;
   }
  
 .bouncingImages {
@@ -8,6 +10,7 @@ body {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
+	bottom: 10px;
 }
 
 .bouncingImages2 {
@@ -15,7 +18,7 @@ body {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	right: 1%;
+	right: 1px;
 }
 
  .bouncingImages3 {
@@ -23,7 +26,9 @@ body {
 	width: 193px;
 	height: 190px;
 	border-radius: 50%;
-
+	bottom: 10px;
+	right: 10px;
+	
 }
 
 .bouncingImages4 {
