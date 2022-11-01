@@ -31,6 +31,7 @@ setInterval(() => {
 	if(yPosition + imgElement.clientHeight >= window.innerHeight || yPosition <= 0){
 		ySpeed = -ySpeed
 	}
+	// The client returns the viewable width and height of an element in pixels which include padding
 xPosition += xSpeed
 yPosition += ySpeed
 Update()
