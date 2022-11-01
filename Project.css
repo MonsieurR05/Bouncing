@@ -1,8 +1,9 @@
 body { 
-	background: url(ProjectImg/blackmax.jpg) no-repeat center center fixed; 
+	background: url(ProjectImg/blackmax.jpg) no-repeat center center fixed;
 	background-size: cover;
 	overflow-x: hidden;
 	overflow-y: hidden;
+	/* this hides the scroll bar and stops it from popping up */
   }
  
 .bouncingImages {
