@@ -34,9 +34,7 @@
     height: 100%;
     position: absolute;
     width: 400px;
-    transition: 0.5s;
-    z-index: 1;
-    /* sets a stack order */
+    transition: 0.5s;   
 }
 
 .container .Profile:hover .ProfileImg{
