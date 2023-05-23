@@ -1,0 +1,49 @@
+body { 
+	background: url(ProjectImg/Pokemon.png) no-repeat center fixed;
+	background-size: cover;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	/* this hides the scroll bar and stops it from popping up */
+  }
+ 
+.bouncingImages {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	bottom: 10px;
+}
+
+.bouncingImages2 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	right: 1px;
+}
+
+ .bouncingImages3 {
+	position: absolute;
+	width: 193px;
+	height: 190px;
+	border-radius: 50%;
+	bottom: 10px;
+	right: 10px;
+	
+}
+
+.bouncingImages4 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.bouncingImages5 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+
